@@ -1,0 +1,5 @@
+-- # delete statements
+-- # drop statements
+-- # truncate statements
+-- # update table
+-- # alter table
